@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer 💻 | React ⚛️ | Laravel 🌐 | Node.js 🚀 | .NET 🖥️<br><br>🎓 Master’s student in Information Systems Engineering<br><br>📱 Web & Mobile App Developer<br><br>🛠️ React, Next.js, Laravel, Node.js, C# .NET, Flutter<br><br>🔌 API design, CI/CD, SQL & NoSQL<br><br>❤️ Passion for clean code, UX, and scalable solutions<br>
+Full Stack Developer  React, Laravel, Node.js, .NET <br><br>🎓 Master’s student in Information Systems Engineering<br><br>📱 Web & software App Developer<br><br> React, Next.js, Laravel, Node.js, C# .NET, Flutter<br><br>🔌 API design, CI/CD, SQL & NoSQL<br><br>❤️ Passion for clean code, UX, and scalable solutions<br>
 
 
 ## 🌐 Socials:
